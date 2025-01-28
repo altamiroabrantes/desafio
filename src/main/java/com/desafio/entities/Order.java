@@ -12,6 +12,7 @@ public class Order {
 		this.basic = basic;
 		this.discount = discount;
 	}
+	
 	public Integer getCode() {
 		return code;
 	}
